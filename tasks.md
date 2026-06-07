@@ -8,4 +8,4 @@
 ## Regras
 
 - Toda tarefa deve ter um título
-- Toda tarefa começa com status pendente
+- Toda tarefa começa com status:pendente
